@@ -6,7 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="Library/commons-io-2.5.jar"/>
 	<classpathentry kind="lib" path="Library/selenium-server-standalone-3.141.59.jar"/>
+=======
+	<classpathentry kind="lib" path="Library/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Library/commons-io-2.5.jar"/>
+>>>>>>> d99a13da6248c052a2c8898491a815bce3f7fbbd
 	<classpathentry kind="output" path="bin"/>
 </classpath>

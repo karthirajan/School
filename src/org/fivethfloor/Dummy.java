@@ -1,5 +1,6 @@
 package org.fivethfloor;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Dummy 
@@ -70,3 +71,18 @@ public class Dummy
         }
     }
 }
+=======
+public class Dummy 
+{
+	public static void main(String[] args) 
+	{ 
+			  int i,fact=1;  
+			  int number=5;
+			  for(i=1;i<=number;i++){    
+			      fact=fact*i;    
+			  }    
+			  System.out.println("Factorial of "+number+" is: "+fact);    
+	}
+	}
+	
+>>>>>>> d99a13da6248c052a2c8898491a815bce3f7fbbd
